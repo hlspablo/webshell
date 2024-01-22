@@ -11,27 +11,22 @@
   "username": "visitor",
   "hostname": "webshell",
   "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/hlspablo",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "pabllobeg@gmail.com",
+    "github": "hlspablo",
+    "linkedin": "https://www.linkedin.com/in/hlspablo"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Hi stranger. Welcome to my portfolio.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
-    ],
-    [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "Já Zerei",
+      "My TCC Project created in Angular",
+      "https://github.com/hlspablo/jazerei"
     ]
   ],
   "colors": {
-    "background": "#0C0623",
+    "background": "#000",
     "foreground": "#F8DDE5",
     "banner": "#FF9951",
     "border": {
